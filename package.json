@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "## Day 1     name: Report Repair     Folder: `day1/` ## Day 2     name: Password Philosophy     Folder: `day2/` ## Day 3     name: Toboggan Trajectory     Folder: `day3/`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luk1790/adventOfCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luk1790/adventOfCode/issues"
+  },
+  "homepage": "https://github.com/luk1790/adventOfCode#readme"
+}

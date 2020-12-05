@@ -9,3 +9,6 @@
 ## Day 3
     name: Toboggan Trajectory
     Folder: `day3/`
+## Day 4
+    name: Passport Processing
+    Folder: `day4/`
