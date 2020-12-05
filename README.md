@@ -12,3 +12,6 @@
 ## Day 4
     name: Passport Processing
     Folder: `day4/`
+## Day 5
+    name: Binary Boarding
+    Folder: `day5/`
