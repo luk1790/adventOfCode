@@ -15,3 +15,6 @@
 ## Day 5
     name: Binary Boarding
     Folder: `day5/`
+## Day 6
+    name: Custom Customs
+    Folder: [day6](day6/mission.md)
