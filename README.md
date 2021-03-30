@@ -1,5 +1,7 @@
 # Advent Of Code 2020
 
+url: [https://adventofcode.com/]
+
 ## Day 1
 
     name: Report Repair
