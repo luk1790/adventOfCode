@@ -1,3 +1,12 @@
+# Advent Of Code 2021
+
+## Day 1
+
+    name: Report Repair
+    Folder: `2021/day1/`
+    url: [https://adventofcode.com/2021/day/1]
+
+
 # Advent Of Code 2020
 
 url: https://adventofcode.com/
