@@ -2,9 +2,21 @@
 
 ## Day 1
 
-    name: Report Repair
+    name: Sonar Sweep
     Folder: `2021/day1/`
     url: [https://adventofcode.com/2021/day/1]
+
+## Day 2
+
+    name: Dive
+    Folder: `2021/day2/`
+    url: [https://adventofcode.com/2021/day/2]
+
+## Day 3
+
+    name: Binary Diagnostic
+    Folder: `2021/day3/`
+    url: [https://adventofcode.com/2021/day/3]
 
 
 # Advent Of Code 2020
