@@ -18,6 +18,12 @@
     Folder: `2021/day3/`
     url: [https://adventofcode.com/2021/day/3]
 
+## Day 4
+
+    name: Giant Squid
+    Folder: `2021/day4/`
+    url: [https://adventofcode.com/2021/day/4]
+
 
 # Advent Of Code 2020
 
