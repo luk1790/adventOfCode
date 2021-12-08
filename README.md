@@ -24,6 +24,12 @@
     Folder: `2021/day4/`
     url: [https://adventofcode.com/2021/day/4]
 
+## Day 7
+
+    name: The Treachery of Whales
+    Folder: `2021/day7/`
+    url: [https://adventofcode.com/2021/day/7]
+
 
 # Advent Of Code 2020
 
