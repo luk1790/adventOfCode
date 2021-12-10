@@ -24,6 +24,12 @@
     Folder: `2021/day4/`
     url: [https://adventofcode.com/2021/day/4]
 
+## Day 6
+
+    name: Lanternfish
+    Folder: `2021/day6/`
+    url: [https://adventofcode.com/2021/day/6]
+
 ## Day 7
 
     name: The Treachery of Whales
