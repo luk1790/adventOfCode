@@ -29,7 +29,12 @@
     name: The Treachery of Whales
     Folder: `2021/day7/`
     url: [https://adventofcode.com/2021/day/7]
+    
+## Day 9
 
+    name: Smoke Basin
+    Folder: `2021/day9/`
+    url: [https://adventofcode.com/2021/day/9]
 
 # Advent Of Code 2020
 
