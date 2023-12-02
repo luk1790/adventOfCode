@@ -76,3 +76,13 @@ url: https://adventofcode.com/
     name: Handy Haversacks
     Folder: `2020/day7/`
     url: [https://adventofcode.com/2020/day/7]
+
+# Advent Of Code 2023
+
+url: https://adventofcode.com/
+
+## Day 1
+
+    name: Trebuchet
+    Folder: `2023/day1/`
+    url: [https://adventofcode.com/2023/day/1]
