@@ -30,7 +30,6 @@
     Folder: `2021/day7/`
     url: [https://adventofcode.com/2021/day/7]
 
-
 # Advent Of Code 2020
 
 url: https://adventofcode.com/
@@ -86,3 +85,9 @@ url: https://adventofcode.com/
     name: Trebuchet
     Folder: `2023/day1/`
     url: [https://adventofcode.com/2023/day/1]
+
+## Day 2
+
+    name: Cube Conundrum
+    Folder: `2023/day2/`
+    url: [https://adventofcode.com/2023/day/2]
