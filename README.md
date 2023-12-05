@@ -91,3 +91,9 @@ url: https://adventofcode.com/
     name: Cube Conundrum
     Folder: `2023/day2/`
     url: [https://adventofcode.com/2023/day/2]
+
+## Day 3
+
+    name: Gear Ratios
+    Folder: `2023/day3/`
+    url: [https://adventofcode.com/2023/day/3]
