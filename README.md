@@ -1,3 +1,25 @@
+# Advent Of Code 2023
+
+url: https://adventofcode.com/
+
+## Day 1
+
+    name: Trebuchet
+    Folder: `2023/day1/`
+    url: [https://adventofcode.com/2023/day/1]
+
+## Day 2
+
+    name: Cube Conundrum
+    Folder: `2023/day2/`
+    url: [https://adventofcode.com/2023/day/2]
+
+## Day 3
+
+    name: Gear Ratios
+    Folder: `2023/day3/`
+    url: [https://adventofcode.com/2023/day/3]
+
 # Advent Of Code 2021
 
 ## Day 1
@@ -75,25 +97,3 @@ url: https://adventofcode.com/
     name: Handy Haversacks
     Folder: `2020/day7/`
     url: [https://adventofcode.com/2020/day/7]
-
-# Advent Of Code 2023
-
-url: https://adventofcode.com/
-
-## Day 1
-
-    name: Trebuchet
-    Folder: `2023/day1/`
-    url: [https://adventofcode.com/2023/day/1]
-
-## Day 2
-
-    name: Cube Conundrum
-    Folder: `2023/day2/`
-    url: [https://adventofcode.com/2023/day/2]
-
-## Day 3
-
-    name: Gear Ratios
-    Folder: `2023/day3/`
-    url: [https://adventofcode.com/2023/day/3]
